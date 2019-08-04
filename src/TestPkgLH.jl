@@ -1,6 +1,6 @@
 module TestPkgLH
 
-using ConfigLH
+#using ConfigLH
 
 export print_version
 
