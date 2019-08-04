@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EmbeddedEditorHidden:lutz</key>
+	<false/>
+	<key>ExpandedEditorWidth:lutz:displays([(0, 0), (1680, 1050)])</key>
+	<integer>848</integer>
+	<key>ExpandedItems:lutz</key>
+	<array>
+		<string>01AD527F-60C7-4CA2-AF97-CAA516F2082E</string>
+		<dict>
+			<key>BookmarkData</key>
+			<data>
+			Ym9vawQDAAAAAAQQMAAAAFqmKwIYTK3xwz3iUa0liJvpw4hE8hir
+			7BQIcqNa0qdLAAIAAAQAAAADAwAAAAgAKAUAAAABAQAAVXNlcnMA
+			AAAEAAAAAQEAAGx1dHoJAAAAAQEAAERvY3VtZW50cwAAAAUAAAAB
+			AQAAanVsaWEAAAAJAAAAAQEAAFRlc3RQa2dMSAAAAAMAAAABAQAA
+			c3JjABgAAAABBgAAEAAAACAAAAAsAAAAQAAAAFAAAABkAAAACAAA
+			AAQDAAAougoAAAAAAAgAAAAEAwAA/o8RAAAAAAAIAAAABAMAAFh2
+			FAAAAAAACAAAAAQDAAAETxYAAAAAAAgAAAAEAwAAZbtjAAAAAAAI
+			AAAABAMAAHO7YwAAAAAAGAAAAAEGAACQAAAAoAAAALAAAADAAAAA
+			0AAAAOAAAAAIAAAAAAQAAEHBe4LNnxWaGAAAAAECAAACAAAAAAAA
+			AA8AAAAAAAAAAAAAAAAAAAAIAAAABAMAAAQAAAAAAAAABAAAAAMD
+			AAD1AQAACAAAAAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3No
+			IEhECAAAAAQDAAAAoCBodAAAAAgAAAAABAAAQcE+xfMgF+gkAAAA
+			AQEAADRGNDc2NDUyLTQ4RTktNDg1NS1CNzRGLTdDMTA3NThBQ0Qy
+			MxgAAAABAgAAgQAAAAEAAADvEwAAAQAAAAAAAAAAAAAAAQAAAAEB
+			AAAvAAAAAAAAAAEFAADMAAAA/v///wEAAAAAAAAAEAAAAAQQAABw
+			AAAAAAAAAAUQAADwAAAAAAAAABAQAAAgAQAAAAAAAEAQAAAQAQAA
+			AAAAAAIgAADsAQAAAAAAAAUgAABcAQAAAAAAABAgAABsAQAAAAAA
+			ABEgAACgAQAAAAAAABIgAACAAQAAAAAAABMgAACQAQAAAAAAACAg
+			AADMAQAAAAAAADAgAAD4AQAAAAAAAAHAAABAAQAAAAAAABHAAAAg
+			AAAAAAAAABLAAABQAQAAAAAAABDQAAAEAAAAAAAAAA==
+			</data>
+			<key>FileURL</key>
+			<string>file:///Users/lutz/Documents/julia/TestPkgLH/src/</string>
+			<key>HasSecurityScope</key>
+			<true/>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>FileFilterMode:lutz</key>
+	<integer>0</integer>
+	<key>OpenDocuments:lutz</key>
+	<array/>
+	<key>OpenDocumentsExpanded</key>
+	<true/>
+	<key>OpenDocumentsSplitterProportion</key>
+	<real>0.85045778229908442</real>
+	<key>ProjectItemsExpanded</key>
+	<true/>
+	<key>ProjectViewVisible</key>
+	<true/>
+	<key>RecentItems:lutz</key>
+	<array/>
+	<key>ScratchpadItemsExpanded</key>
+	<true/>
+	<key>ScratchpadItemsVisible</key>
+	<true/>
+	<key>ShowSCMData:lutz</key>
+	<false/>
+	<key>ToolbarVisible:lutz</key>
+	<false/>
+	<key>ViewSplitterPosition:lutz</key>
+	<real>0.1931493878364563</real>
+	<key>WindowFrame:lutz:displays([(0, 0), (1680, 1050)])</key>
+	<string>rect(67,22,1050,1073)</string>
+</dict>
+</plist>
