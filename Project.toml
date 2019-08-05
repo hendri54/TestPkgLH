@@ -1,7 +1,7 @@
 name = "TestPkgLH"
 uuid = "430be53e-b6e1-11e9-3835-cd004dc5e9d7"
 authors = ["hendri54 <hendricksl@protonmail.com>"]
-version = "0.1.8"
+version = "0.2"
 
 [deps]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
