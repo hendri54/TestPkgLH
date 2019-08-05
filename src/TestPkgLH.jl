@@ -5,7 +5,7 @@ module TestPkgLH
 export print_version
 
 function print_version()
-	verNo = 6;
+	verNo = 7;
 	println("TestPkg version $verNo")
 	return verNo
 end
