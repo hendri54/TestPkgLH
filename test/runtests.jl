@@ -1,4 +1,4 @@
 using TestPkgLH
 using Test
 
-@test print_version() > 1.0
+@test print_version() >= 1
